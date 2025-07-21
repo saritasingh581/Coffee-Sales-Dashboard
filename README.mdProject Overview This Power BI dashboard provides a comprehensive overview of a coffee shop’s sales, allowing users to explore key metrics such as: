@@ -9,7 +9,21 @@ An Interactive Power BI dashboard that analyzes and visualizes coffee sales data
  • Sum of quantity
  • Total Sales
  The dashboard is designed with usability in mind and includes slicers and filters for interactive exploration.
- 
+
+Key KPIs in the Dashboard:
+✅ Total Customers - Keep track of the overall customer base to assess market reach and growth.
+✅ Revenue - Monitor the total revenue generated, providing a high-level view of business performance.
+✅ Average sales - Analyze the average sales per transaction, offering insights into pricing strategies and customer spending behavior.
+✅ Sum of quantity - Track the total quantity of products sold, helping to understand volume and demand.
+✅ Total Sales - A comprehensive view of total sales, combining both revenue and quantity to assess business health.
+
+Key Slicers in the Dashboard:
+➡️ Coffee Type - Filter the data based on different coffee varieties, enabling analysis of sales trends per coffee type.
+➡️ Roast Type - Drill down into the performance of various roast types, from light to dark roasts, to understand customer preferences.
+➡️ Size - View sales data based on product size, helping businesses optimize inventory and sales strategies.
+➡️ Country - Explore sales performance by country, enabling insights into regional differences and identifying growth opportunities.
+
+The dynamic slicers and KPIs allow decision-makers to filter and explore the data based on different dimensions, providing a powerful tool for improving strategy and operational decisions.
 
  
 
