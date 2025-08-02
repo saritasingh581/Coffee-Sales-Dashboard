@@ -41,8 +41,8 @@ These filters make the dashboard highly flexible and user-driven.
 ✨ Features  
 
  • Clean and intuitive user interface  
- • Real-time filtering with interactive visualizations
- • Multiple charts and graphs for comparative insights  
+ • Real-time filtering with interactive visualizations  
+ • Multiple charts and graphs for comparative insights    
  • Drill-down capabilities for deeper data exploration
 
 🚀 Usage Instructions  
@@ -51,9 +51,9 @@ These filters make the dashboard highly flexible and user-driven.
  - Open the file using Power BI Desktop  
  - Use filters and slicers to explore the dashboard based on your needs  
 
-💡 Potential Use Cases    
+💡 Potential Use Cases  
 
-  • Business performance reviews
-  • Marketing and product strategy planning
-  • Sales forecasting and resource allocation
-  • Market segmentation and targeting
+  • Business performance reviews  
+  • Marketing and product strategy planning  
+  • Sales forecasting and resource allocation  
+  • Market segmentation and targeting  
