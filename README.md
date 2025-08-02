@@ -3,27 +3,27 @@
 An interactive Power BI dashboard designed to analyze and visualize a coffee shop’s sales data. It helps uncover valuable insights into customer behavior, product performance, and regional trends, empowering strategic, data-driven decisions.
 
 🎯 Dashboard Objectives  
-This dashboard is built to:  
+   This dashboard is built to:  
 
- - Monitor sales performance over time  
- - Identify top-selling products and customer preferences  
- - Analyze regional sales trends  
- - Understand average purchase behavior   
- - Provide an interactive and user-friendly interface for exploring data  
+  - Monitor sales performance over time  
+  - Identify top-selling products and customer preferences  
+  - Analyze regional sales trends  
+  - Understand average purchase behavior   
+  - Provide an interactive and user-friendly interface for exploring data  
 
 📌 Key Performance Indicators (KPIs)  
-The dashboard highlights these core KPIs:  
+   The dashboard highlights these core KPIs:  
 
- • Total Customers: Number of unique customers (helps track customer base growth)  
- • Total Revenue: Total income generated from sales  
- • Average Sales: Average amount spent per transaction  
- • Quantity Sold: Total number of units sold  
- • Total Sales: Combined view of revenue and volume  
+ - Total Customers: Number of unique customers (helps track customer base growth)  
+ - Total Revenue: Total income generated from sales  
+ - Average Sales: Average amount spent per transaction  
+ - Quantity Sold: Total number of units sold  
+ - Total Sales: Combined view of revenue and volume  
 
 These KPIs give a high-level overview of performance and help uncover patterns and areas for improvement.
 
 🧰 Interactive Filters and Slicers  
-Explore data dynamically using built-in slicers:  
+    Explore data dynamically using built-in slicers:  
 
  - Coffee Type: Filter by different types of coffee sold  
  - Roast Type: View data for light, medium, or dark roasts  
@@ -40,10 +40,10 @@ These filters make the dashboard highly flexible and user-driven.
 
 ✨ Features  
 
- • Clean and intuitive user interface  
- • Real-time filtering with interactive visualizations  
- • Multiple charts and graphs for comparative insights    
- • Drill-down capabilities for deeper data exploration
+ - Clean and intuitive user interface  
+ - Real-time filtering with interactive visualizations  
+ - Multiple charts and graphs for comparative insights    
+ - Drill-down capabilities for deeper data exploration
 
 🚀 Usage Instructions  
 
@@ -53,7 +53,7 @@ These filters make the dashboard highly flexible and user-driven.
 
 💡 Potential Use Cases  
 
-  • Business performance reviews  
-  • Marketing and product strategy planning  
-  • Sales forecasting and resource allocation  
-  • Market segmentation and targeting  
+ - Business performance reviews  
+ - Marketing and product strategy planning  
+ - Sales forecasting and resource allocation  
+ - Market segmentation and targeting  
