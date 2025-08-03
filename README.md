@@ -36,7 +36,7 @@ These filters make the dashboard highly flexible and user-driven.
 
  - Power BI: Main tool for visualization and dashboard creation  
  - DAX: Used for building custom calculations and measures  
- - Excel/CSV: Source format for raw sales data (if applicable)
+ - Excel/CSV: Source format for raw sales data
 
 ✨ Features  
 
